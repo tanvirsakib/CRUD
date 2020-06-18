@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CRUD</string>
+
+    <array name="WriterType">
+        <item>Select writer type</item>
+        <item>Islamic</item>
+        <item>Poem</item>
+        <item>Nobel</item>
+        <item>History</item>
+        <item>Tourisam</item>
+    </array>
+</resources>
